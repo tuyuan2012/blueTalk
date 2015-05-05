@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A247BF1B-09E6-4659-9ED1-FE9CE15E81DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>BlueTalk</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>716B108EA8B64E3A2382C1280300D1263F2ABFFB</key>
+		<string>https://github.com/tuyuan2012/blueTalk.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BlueTalk.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>716B108EA8B64E3A2382C1280300D1263F2ABFFB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tuyuan2012/blueTalk.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>716B108EA8B64E3A2382C1280300D1263F2ABFFB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>716B108EA8B64E3A2382C1280300D1263F2ABFFB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>blueTalk</string>
+		</dict>
+	</array>
+</dict>
+</plist>
